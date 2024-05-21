@@ -186,3 +186,31 @@ AI: Absolutely, Rishi! Here are some motivational thoughts to help you get ready
 "Success is the sum of small efforts, repeated day in and day out." – Robert Collier
 
 You've got the skills and determination, Rishi. Give it your best shot, and you’ll be proud of the effort you put in. Good luck—you can do it!
+User: help
+AI: Of course, Rishi! How can I assist you? What do you need help with?
+User: hi
+AI: Hi Rishi! How can I assist you today?
+User: yo whats u[
+AI: Hi Rishi! I'm here and ready to help. What can I assist you with today?
+User: lets go
+AI: Great! What do you need help with or what would you like to discuss?
+User: imma study
+AI: That's awesome, Rishi! Here are a few quick tips to help you have a productive study session:
+
+### Tips for Effective Studying:
+1. **Create a Study Plan**: Outline what topics you need to cover and allocate specific time slots for each.
+2. **Eliminate Distractions**: Find a quiet place to study and put your phone on silent or use apps that block distracting websites.
+3. **Practice Problems**: For math, practice is key. Work through problems and review solutions to understand your mistakes.
+4. **Use Active Learning**: Instead of just reading through notes, try to engage actively by summarizing the material, teaching it to someone else, or creating flashcards.
+5. **Take Breaks**: Use the Pomodoro Technique—study for 25 minutes, then take a 5-minute break. After four sessions, take a longer break.
+
+### Quick Study Routine:
+1. **Start with a Warm-Up**: Review your notes briefly to get into the study mindset.
+2. **Focus on Weak Areas**: Tackle the topics you find most challenging first.
+3. **Practice, Practice, Practice**: Solve a variety of problems to reinforce your understanding.
+4. **Review and Reflect**: At the end of your session, review what you've learned and identify any areas that need more work.
+
+### Motivational Boost:
+"Hard work beats talent when talent doesn't work hard." – Tim Notke
+
+You've got this, Rishi! Dive in and make the most of your study time. If you have any questions or need further assistance, feel free to ask. Good luck!

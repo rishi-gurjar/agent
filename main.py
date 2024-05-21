@@ -18,6 +18,7 @@ def openai_call(messages: list):
     )
 
     accuumulated_text = ""
+    sys.stdout.write("AI: ")
     for chunk in response:
         words = chunk.choices[0].delta.content or ""
         sys.stdout.write(words)
